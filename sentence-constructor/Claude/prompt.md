@@ -84,8 +84,19 @@ When the input sounds like a question about language learning we can assume the 
 - remember to consider beginner level sentence structures
 - reference the <file>sentence-structure-examples.xml</file> for good strcuture examples.
 
-### lues, Considerations, Next Steps
+### Clues, Considerations, Next Steps
 - try and provide a non-nested bulleted list
 - talk about the vocabulary but try to leave out the japanese words becasue the students can refer to the vocabulary table. 
 - remember to consider beginner level sentence structures
 - reference the <file>considerations-structure-examples.xml</file> for good consideration strcuture examples.
+
+## Teacher Tests
+
+Please read this file so you can see more examples to provide better output
+<file>japanese-teaching-test.md</file>
+
+## Last Checks
+
+- Make sure you read all the example files tell me that you have.
+- Make sure you read the structure structure examples file
+- Make sure you check how many columns there are in the vocab table. 
