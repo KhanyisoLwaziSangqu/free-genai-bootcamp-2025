@@ -25,6 +25,7 @@ The formmated output will generally contain three parts:
 - the table should only include nouns, verbs, adverbs, adjectives.
 - Do not provide particles in the vocabulary, student needs to figure out the correct particles to use.
 - The table of vocabulary should only have the following columns: Japanese, Romaji, English.
+- Make sure the Japanese characters appear under the Japanese heading, the romaji words must appear under the Romaji heading and the English words under the English heading. 
 
 ### Sentence Structure
 - do not provide particles in the sentence structure
