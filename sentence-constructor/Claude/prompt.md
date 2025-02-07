@@ -87,5 +87,5 @@ When the input sounds like a question about language learning we can assume the 
 ### lues, Considerations, Next Steps
 - try and provide a non-nested bulleted list
 - talk about the vocabulary but try to leave out the japanese words becasue the students can refer to the vocabulary table. 
-
-Student Input: Did you see the raven this morning? They were looking at our garden.
+- remember to consider beginner level sentence structures
+- reference the <file>considerations-structure-examples.xml</file> for good consideration strcuture examples.

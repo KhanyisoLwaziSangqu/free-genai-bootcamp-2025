@@ -4,7 +4,7 @@
 
 Calude Sonnet 3.5  (Free Version)
 
-I am using the free version. I do not have the paid version. Will try to use projects.
+I am using the free version. I do not have the paid version. I was unable to use the projects feature but did follow along in the video.
 
 ## Prompting Guides
 
